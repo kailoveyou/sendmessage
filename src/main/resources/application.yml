@@ -1,0 +1,5 @@
+server:
+    #端口号
+    port: 8888
+    #修改项目默认路径 /
+    #context-path: /demo
